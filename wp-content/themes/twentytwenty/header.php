@@ -63,8 +63,10 @@
 							twentytwenty_site_logo();
 
 							// Site description.
-							twentytwenty_site_description();
+							//twentytwenty_site_description();
 						?>
+
+						<p>texto estático de prueba</p>
 
 					</div><!-- .header-titles -->
 
